@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Food Delivery Service Project](https://www.linkedin.com/pulse/analyzing-ifood-sales-excel-harrison-reed-9f9ye/)
-[<img src="images/MassEdTableauVideoScreenshot.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-ifood-sales-excel-harrison-reed-9f9ye/)
+[<img src="images/iFoodAnalyticsCoverPhoto.jpg?raw=true"/>](https://www.linkedin.com/pulse/analyzing-ifood-sales-excel-harrison-reed-9f9ye/)
 My write up for a case study on a Brazillian food delivery service known as iFood using Excel. I analyzed demographic trends within iFood servcies as well as the responses to marketing strategies in order to better understand their customer base and spending habits.
 
 
