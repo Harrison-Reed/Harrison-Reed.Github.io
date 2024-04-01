@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [World Bank - International Development Association SQL Project](https://www.linkedin.com/pulse/pakistan-water-fight-safety-security-harrison-reed-qu1ze/?trackingId=963h%2Fj6ITQ2oPu11mrtrNg%3D%3D)
-[<img src="images/iFoodAnalyticsCoverPhoto.jpg?raw=true"/>](https://www.linkedin.com/pulse/pakistan-water-fight-safety-security-harrison-reed-qu1ze/?trackingId=963h%2Fj6ITQ2oPu11mrtrNg%3D%3D)
+[<img src=images/Pakistan and Water2.jpg>](https://www.linkedin.com/pulse/pakistan-water-fight-safety-security-harrison-reed-qu1ze/?trackingId=963h%2Fj6ITQ2oPu11mrtrNg%3D%3D)
 I dove into the data to explore how the World Bank is supporting Pakistan in managing its water resources and mitigating flood disasters, which have become increasingly severe due to climate change. Through SQL analysis, I uncovered some fascinating insights into the strategies and impact of the World Bank's aid in this critical area. Check out the article for a deep dive into the data-driven approach to resilience-building! 
 
 <!--#### [Internal Blog Post Project](/bank)
